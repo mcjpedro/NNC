@@ -7,6 +7,8 @@ This application was designed to make SPI communication between the Raspberry Pi
 
 At each communication command, the interface returns the word read through the SPI protocol to the user.
 
+![image](https://user-images.githubusercontent.com/53011744/149071143-57814850-a257-4673-a1f9-0e6660b25c9c.png)
+
 ## IMPORTANT NOTE
 To run the interface with all its functionality, please read the notes below. It is necessary to change some native Raspberry Pi protocols, located in the "/boot/confi.txt" file.
 
